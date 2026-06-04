@@ -8,15 +8,13 @@ The client - a game developing company - plans to use these insights to evaluate
 - Create interactive dashboard.📌 
 
 ## 🔗 Quick Links
-* ▶ **[View Interactive Dashboard in Yandex DataLens](https://datalens.ru/gvj9ho0yb4tc0)** (No registration required)
 * 🛠 **[View SQL Data Cleaning & Analysis Script](src/data-cleansing-analysis)** 
 
 ---
 
 ## 🛠 Tech Stack
-* **Database:** PostgreSQL (temporary tables, advanced Window Functions, CTEs, complex aggregations, segmentation, pivot).
+* **Database:** Python (Jupyter Notebook (temporary tables, advanced Window Functions, CTEs, complex aggregations, segmentation, pivot).
 * **Data Processing:** PostgreSQL (DBeaver) — utilized for data deduplication and data anomalies filtration.
-* **BI Platform:** Yandex DataLens — leveraged for building the interactive dashboard and performing cohort analysis.
 
 ---
 
