@@ -1,10 +1,10 @@
-# 📊 Analysis of the the seasonal trends in the real estate market of St. Petersburg and the Leningrad region for the purpose of Marketing Optimization
+# 📊 Video Game Industry Study
 
 ## 📌 Business Case Overview
-The client, a real-estate agency was considering entering St. Petersburg's market and needed reliable data to assess its prospects and plan market launch activities. 
+The client - a game developing company - plans to use these insights to evaluate multiple hypotheses, specifically exploring how game ratings impact overall ROI.
 
 ## 🎯 Project Objectives 
-- Identify the market dynamics and deliver insights regarding periods with increased activity of sellers and buyers to leadership.📌 
+- Conduct a study of the video game industry from 2000 to 2013, focusing on the RPG (Role-playing games) segment across major platforms, game genres, and received scores.📌 
 - Create interactive dashboard.📌 
 
 ## 🔗 Quick Links
