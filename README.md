@@ -24,7 +24,7 @@ The client - a game developing company - plans to use these insights to evaluate
 
 * **Methodological Segmentation**: Segmented software sales by core economic regions: North America (na_sales), Europe (eu_sales), and Japan (jp_sales). Missing sales entries were handled via custom multi-index imputation grouped by year_of_release and platform.
 
-* **Missing Value Engineering**: Missing data entries in critical score blocks (critic_score, user_score) and age classifications (rating) were systematically mapped. Missing age criteria were normalized to "Unknown" tags to preserve historical sales volume.
+* **Missing Value Engineering**: Missing entries in essential data (critic_score, user_score) and age classifications (rating) were systematically mapped. Missing age criteria were normalized to "Unknown" tags to preserve historical sales volume.
 
 ---
 
@@ -38,13 +38,15 @@ The client - a game developing company - plans to use these insights to evaluate
 ---
 
 ## 🚀 Strategic Recommendations
-*	**Core Focus & Timing**: Concentrate primary business operations within St. Petersburg and launch major marketing campaigns between late September and October to capture the peak annual demand. 
-*	**Target High-Liquidity Segment**: Build the core portfolio around 1–2 room apartments ranging between 45 and 65 sq.m. in St. Petersburg and highly accessible inner-city towns like Gatchina, Pushkin, and Pavlovsk. 
-*	**Cautious Premium Execution**: Enter the high-commission premium tier selectively, factoring in aggressive market competition and a 1.5x longer sales cycle (averaging 228 days compared to 155 days for budget properties). 
 
+* **Dataset Specifics**: The final dataset includes 16,432 rows and 11,421 unique game titles. The duplicate titles are due to industry specifics (multi-platform releases), so these rows were kept as valid for further analysis.
+
+* **Score Distribution**: The majority of games received average-to-high ratings from both critics and users.
+
+* **Top Platforms by Game Count**: The technologically advanced DS (2,110 games) and PS2 (2,044 games) lead the ranking. They are followed by Wii (1,261) and PSP (1,126), platforms that once disrupted the market with their innovativeness.
 ---
 
 ## 📁 Repository Structure
 * 'README.md' — Project overview and executive summary (this file).
 * '/data' — Anonymized raw dataset limited to 500 data entries.
-* '/src' — Source code folder containing SQL script (PostGreSQL).
+* '/src' — Source code folder containing python script (Jupyter Notebook).
