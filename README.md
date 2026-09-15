@@ -7,7 +7,7 @@ The client - a game developing company - plans to use these insights to evaluate
 - Conduct a study of the video game industry from 2000 to 2013, focusing on the RPG (Role-playing games) segment across major platforms, game genres, and received scores.📌 
 
 ## 🔗 Quick Links
-* 🛠 **[View SQL Data Cleaning & Analysis Script](src/data-cleansing-analysis)**
+* 🛠 **[View SQL Data Cleaning & Analysis Script](src/game-data-cleansing-analysis)**
 * 🔍 **[dataset](https://github.com/tamara-vorobyeva/game-industry-analysis/blob/main/data/dataset.csv)**
 
 ---
